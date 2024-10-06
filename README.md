@@ -1,4 +1,5 @@
-Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+Shield: 
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
@@ -10,7 +11,7 @@ This work is licensed under a
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 # DOI
-[10.5281/zenodo.13894141](https://doi.org/10.5281/zenodo.13894141)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13894141.svg)](https://doi.org/10.5281/zenodo.13894141)
 
 # Resúmen
 
