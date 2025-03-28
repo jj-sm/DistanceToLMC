@@ -13,7 +13,7 @@ This work is licensed under a
 
 # DOI
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13894141.svg)](https://doi.org/10.5281/zenodo.13894141)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13894141.svg)](https://doi.org/10.48550/arXiv.2503.21120)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://doi.org/10.48550/arXiv.2503.21120)
 
 # Resúmen
 
